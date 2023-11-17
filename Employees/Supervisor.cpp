@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.cpp
+ * @author Kevin Austin
+ * @date 2023-11-17
+ * @brief superviosr class defintion file
+ * 
+ * Defines supervisor class
+ */
+
 #include "Supervisor.h"
 #include <iostream>
 

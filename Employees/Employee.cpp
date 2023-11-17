@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Kevin Austin
+ * @date 2023-11-17
+ * @brief The employee class definitions
+ * 
+ * Defines the functions of the employee class
+ */
+
 #include "Employee.h"
 #include <iostream>
 

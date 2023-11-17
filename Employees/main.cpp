@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Kevin Austin
+ * @date 2023-11-17
+ * @brief the main file for the Employee project
+ * 
+ * Runs the employee project and uses classes employee, supervisor, and officer
+ */
+
 
 #include <iostream>
 #include "Employee.h"

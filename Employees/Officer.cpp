@@ -1,3 +1,12 @@
+/**
+ * @file Officer.cpp
+ * @author Kevin Austin
+ * @date 2023-11-17
+ * @brief Officer class definer
+ * 
+ * Defines Officer class 
+ */
+
 #include "Officer.h"
 #include <iostream>
 
